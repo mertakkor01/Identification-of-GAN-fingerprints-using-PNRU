@@ -1,1 +1,3 @@
-# Identification-of-GAN-fingerprints-using-PNRU
+# Identification-of-GAN-fingerprints-using-PRNU
+
+In this work, we show that in the images it generates, each GAN leaves its particular fingerprint, just as real-world cameras identify acquired images with traces of their pattern. In fact, each individual device, due to manu- facturing imperfections, leaves a unique and stable mark on each acquired photo, the photo-response non-uniformity(PRNU) pattern. Experiments on source recognition with many common GANs show such fingerprints to be a valuable asset for forensic analysis. Our studies with several com- mon GAN architectures(StyleGAN and StyleGAN2) and datasets(FFHQ) demonstrate that GAN leaves unique fingerprints on the image they create that can be used to conduct accurate forensic analysis.
